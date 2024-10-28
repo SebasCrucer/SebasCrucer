@@ -1,5 +1,3 @@
-### 🚀 Habilidades Técnicas
-
 #### Lenguajes de Programación
 
 <p align="left">
@@ -44,7 +42,7 @@
 
 1. **Deraby** 
    - **Descripción**: Sistema avanzado de comunicaciones lógicas basadas en etiquetas, permitiendo envíos y filtrados complejos.
-   - **Innovación**: Diseñé **Deravi**, un motor de base de datos a medida, y **LSQL** (Logical Set Query Language), un lenguaje de consulta personalizado para manipular y gestionar conjuntos de datos mediante operaciones lógicas.
+   - **Innovación**: Diseñamos **Deravi**, un motor de base de datos a medida, y **LSQL** (Logical Set Query Language), un lenguaje de consulta personalizado para manipular y gestionar conjuntos de datos mediante operaciones lógicas.
    - **Impacto**: Simplificación en la gestión y comunicación en sistemas complejos mediante un enfoque basado en lógica de conjuntos.
 
 2. **GPT Cooper** 
@@ -66,4 +64,4 @@
 
 ### 🌱 Intereses Actuales
 
-Explorando la **creación de lenguajes** y la **arquitectura de sistemas** para expandir los límites de la gestión de datos y la comunicación. Apasionado por cómo el diseño lógico de software puede impulsar soluciones sostenibles y escalables.
+Explorando la **creación de lenguajes fromales** y la **arquitectura de sistemas** para expandir los límites de la gestión de datos y la comunicación. Apasionado por cómo el diseño lógico de software puede impulsar soluciones sostenibles y escalables.
