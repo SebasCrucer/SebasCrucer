@@ -6,63 +6,81 @@
 
 <blockquote style="font-size: 24px;">
   <p align="center">
-    <strong>"Empoderando el Futuro: Innovando para un Mundo Mejor"</strong>
+    <strong>"La tecnología es el arte de convertir ideas en realidades que transforman el mundo."</strong>
   </p>
 </blockquote>
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado y un innovador con la misión de crear proyectos que tengan un impacto significativo. Mi objetivo es aprovechar la tecnología para construir un futuro mejor, una solución a la vez.
+¡Bienvenido a mi perfil de GitHub! Soy Sebas, desarrollador y arquitecto de software con pasión por la innovación tecnológica y la creación de soluciones que generan un impacto significativo. Creo firmemente que la combinación de creatividad y eficiencia técnica es clave para construir un futuro mejor.
 
-### 🚀 Experiencia
+---
 
-- **Lenguajes de Programación**: C++, JavaScript, HTML, CSS, TypeScript, R, M, Go, Python, SQL
-- **Tecnologías**: React, Node, Nearly, GraphQL, Express, TypeScript, MongoDB, Redis, Postgres, Socket.IO, gRPC
-- **Habilidades Blandas**: Excelentes habilidades de comunicación, colaboración y gestión de proyectos
+### 🚀 Habilidades Técnicas
 
-### 💡 Proyectos
+#### Lenguajes de Programación
 
-- **Deraby**: Un sistema potente que utiliza operaciones lógicas para comunicar en función de etiquetas. Desarrollamos Deravi, un motor de base de datos personalizado, y LSQL (Lenguaje de Consulta de Conjuntos Lógicos) para gestionar consultas lógicas complejas de manera eficiente.
-- **GPT Cooper**: Una solución que permite a los usuarios crear, monetizar y conectar agentes de lenguaje natural a WhatsApp para una automatización empresarial sin complicaciones. Puedes verlo en [gptcooper.com](https://gptcooper.com).
-- **TARS: Agente de Viajes Interplanetario** | **Hackatón NASA Space Challenge**: ¡Tercer lugar a nivel internacional! Desarrollé un agente de viajes interplanetario que proporciona información sobre viajes espaciales, cálculos orbitales y detalles de los planetas.
-- **Saquen Plan**: Una app creada para simplificar la planificación de eventos grupales, destacada en un video viral en Instagram que alcanzó casi medio millón de vistas y atrajo a cerca de 2,000 usuarios de toda América Latina. La app sugiere la mejor fecha y hora en función de la disponibilidad de los invitados para asegurar la máxima participación.
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+</p>
+
+#### Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/gRPC-4B8BBE?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+#### Plataformas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
+
+---
+
+### 💼 Proyectos Destacados
+
+1. **Deraby** 
+   - **Descripción**: Sistema avanzado de comunicaciones lógicas basadas en etiquetas, permitiendo envíos y filtrados complejos.
+   - **Innovación**: Diseñé **Deravi**, un motor de base de datos a medida, y **LSQL** (Logical Set Query Language), un lenguaje de consulta personalizado para manipular y gestionar conjuntos de datos mediante operaciones lógicas.
+   - **Impacto**: Simplificación en la gestión y comunicación en sistemas complejos mediante un enfoque basado en lógica de conjuntos.
+
+2. **GPT Cooper** 
+   - **Descripción**: Plataforma para crear y monetizar agentes de lenguaje natural, conectando bots a WhatsApp y permitiendo a los usuarios expandir su negocio.
+   - **Sitio Web**: [gptcooper.com](https://gptcooper.com)
+   - **Objetivo**: Facilitar la automatización de servicios mediante tecnología LLM, abriendo posibilidades de monetización a empresas y emprendedores.
+
+3. **TARS: Agente de Viajes Interplanetario** | **NASA Space Challenge** 
+   - **Reconocimiento**: Tercer lugar a nivel internacional en el Hackatón NASA Space Challenge.
+   - **Descripción**: Agente de viajes interplanetario que proporciona información sobre viajes espaciales, cálculos orbitales y características de planetas.
+   - **Tecnología**: Integración de datos científicos en tiempo real para cálculos precisos, proporcionando una experiencia educativa única.
+
+4. **Saquen Plan** 
+   - **Descripción**: Aplicación para facilitar la coordinación de eventos grupales, seleccionando automáticamente la mejor fecha y hora según la disponibilidad de los participantes.
+   - **Logros**: Un video en Instagram se hizo viral, alcanzando casi medio millón de vistas y atrayendo a cerca de 2,000 usuarios en América Latina.
+   - **Impacto**: Simplificación de la organización de eventos grupales, permitiendo una planificación rápida y eficiente.
+
+---
 
 ### 🌱 Intereses Actuales
 
-Actualmente estoy explorando la creación de lenguajes y arquitectura de sistemas para expandir los límites de la gestión de datos y comunicación.
-
-### Conectemos
-
-<p align="center">
-  Puedes encontrarme en:
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sebascrucer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sebascrucer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
-  </a>
-</p>
-
-### Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasCrucer&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasCrucer&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="Racha en GitHub" />
-
-
-<details align="center">
-  <summary>Trofeos de GitHub 🏆</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SebasCrucer&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="Trofeos de GitHub" />
-  </p>
-</details>
-
-------
-
-Créditos: [SebasCrucer](https://github.com/SebasCrucer)
-
+Explorando la **creación de lenguajes** y la **arquitectura de sistemas** para expandir los límites de la gestión de datos y la comunicación. Apasionado por cómo el diseño lógico de software puede impulsar soluciones sostenibles y escalables.
