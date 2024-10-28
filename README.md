@@ -2,12 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=SebasCrucer&color=blue" alt="Visualizaciones de Perfil" />
 </p>
 
-<blockquote style="font-size: 24px;">
-  <p align="center">
-    <strong>"La tecnología es el arte de convertir ideas en realidades que transforman el mundo."</strong>
-  </p>
-</blockquote>
-
 ### 🚀 Habilidades Técnicas
 
 #### Lenguajes de Programación
