@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SebasCrucer&color=blue" alt="Visualizaciones de Perfil" />
-</p>
-
 ### 🚀 Habilidades Técnicas
 
 #### Lenguajes de Programación
