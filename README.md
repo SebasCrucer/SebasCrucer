@@ -1,5 +1,3 @@
-<h1 align="center">¡Hola! Soy SebasCrucer 👋</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SebasCrucer&color=blue" alt="Visualizaciones de Perfil" />
 </p>
@@ -9,10 +7,6 @@
     <strong>"La tecnología es el arte de convertir ideas en realidades que transforman el mundo."</strong>
   </p>
 </blockquote>
-
-¡Bienvenido a mi perfil de GitHub! Soy Sebas, desarrollador y arquitecto de software con pasión por la innovación tecnológica y la creación de soluciones que generan un impacto significativo. Creo firmemente que la combinación de creatividad y eficiencia técnica es clave para construir un futuro mejor.
-
----
 
 ### 🚀 Habilidades Técnicas
 
@@ -44,7 +38,6 @@
   <img src="https://img.shields.io/badge/gRPC-4B8BBE?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 #### Plataformas
