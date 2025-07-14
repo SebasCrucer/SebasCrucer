@@ -1,4 +1,4 @@
-## Lenguajes de Programación
+## Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
-## Tecnologías y Herramientas
+## Technologies and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -40,7 +40,7 @@
   -->
 </p>
 
-## Plataformas
+## Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
